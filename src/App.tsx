@@ -11,7 +11,7 @@ function App() {
         <div className="App">
             <h1>Welcome to CI/CD tutorial</h1>
             <h2 style={styles}>Thanks for following this tutorial,
-                this is the last commit</h2>
+                this is the last commit by Jessica</h2>
         </div>
     )
 }
